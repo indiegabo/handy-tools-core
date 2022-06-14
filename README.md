@@ -1,2 +1,3 @@
-# handy-tools-api
-The dependency free API for using IndieGabo's Handy Tools
+# handy-tools-core
+
+The dependency free Core scripts for using IndieGabo's Handy Tools
