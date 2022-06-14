@@ -1,0 +1,20 @@
+{
+  "name": "com.indiegabo.handy-tools-api",
+  "version": "1.0.0-beta",
+  "displayName": "Handy Tools API",
+  "description": "The API used to craft IndieGabo's Handy Tools. Allows you to create\nawesome stuff for your project.",
+  "unity": "2019.4",
+  "author": {
+    "name": "IndieGabo",
+    "email": "gabo@indiegabo.com",
+    "url": "https://indiegabo.com"
+  },
+  "keywords": [
+    "tools",
+    "fsm",
+    "state",
+    "machine",
+    "character",
+    "controller"
+  ]
+}

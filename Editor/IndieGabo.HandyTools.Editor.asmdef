@@ -1,0 +1,18 @@
+{
+    "name": "HandyTools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ed23d7c0499aaf544889955d764758b8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
